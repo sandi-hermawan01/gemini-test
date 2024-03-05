@@ -16,6 +16,10 @@ as we know Gemini can process Text to Text and Image to Text, but to do that Gem
 - Text to Text - use gemini-pro
 - Image to Text - use gemini-pro-vision
 
+## Conclusion
+Gemini-Ai's response is quite fast. On Text to Text I didn't find any miss answers, but in Image to Text I tried to predict an image of seven spices and only six were detected.
+Google Ai Studio provides 60 queries per minute for free, I think this is not bad for a small application.
+
 ## How to use
 
 - clone
