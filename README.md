@@ -9,7 +9,7 @@ tags:
 
 ## About Gemini Ai
 
-The fastest way to start using Gemini is with Google AI Studio, a web-based tool that lets you prototype and run prompts right in your browser. you can visit the following [link](https://ai.google.dev/docs/gemini_api_overview)
+The fastest way to start using Gemini is with Google AI Studio, a web-based tool that lets you prototype and run prompts right in your browser. you can visit the following [`gemini documentation`](https://ai.google.dev/docs/gemini_api_overview)
 
 as we know Gemini can process Text to Text and Image to Text, but to do that Gemini provides two different models:
 Text to Text - use gemini-pro
