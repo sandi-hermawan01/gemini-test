@@ -17,6 +17,7 @@ as we know Gemini can process Text to Text and Image to Text, but to do that Gem
 - Image to Text - use gemini-pro-vision
 
 ## Conclusion
+
 Gemini-Ai's response is quite fast. On Text to Text I didn't find any miss answers, but in Image to Text I tried to predict an image of seven spices and only six were detected.
 Google Ai Studio provides 60 queries per minute for free, I think this is not bad for a small application.
 
@@ -24,6 +25,7 @@ Google Ai Studio provides 60 queries per minute for free, I think this is not ba
 
 - clone
 - cd go to the cloned file
+- create .env file for save the API Key
 - npm i node dotenv @google/generative-ai
 - Text to Text running gemini-pro `node gemini-pro.js` and write you want
 - Image to Text running gemini-pro-vision `node gemini-pro-vision.js`
